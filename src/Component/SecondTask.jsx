@@ -67,7 +67,7 @@ function SecondTask() {
             className="border-2 border-gray-500  outline-1 p-2 rounded-md mx-4"
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            placeholder="e.g., 5,2,6,1"
+            placeholder=" Values e.g., 5,2,6,1....."
           />
         </label>
         <button
